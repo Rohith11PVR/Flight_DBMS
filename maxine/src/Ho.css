@@ -1,0 +1,145 @@
+.gome{
+    background-image: 
+    url(
+          "110.jpg");
+    background-size: "cover";
+    height: 100vh;
+    /* margin-top: -70px; */
+    margin-top: -20px;
+    font: size 30px;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+      
+    
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center;
+    align-items: center; */
+  }
+  
+  welcome-text {
+      position: absolute;
+      width: 600px;
+      height: 300px;
+      margin: 20% 30%;
+      text-align: center;
+  }
+  .welcome-text h1 {
+      text-align: center;
+      color: #fff;
+      text-transform: uppercase;
+      font-size: 60px;
+  }
+  .welcome-text h1 span {
+  
+      color: #6d0828;
+  }
+  /* .welecome-text a :visited {
+    background-color: yellow;
+  }
+  
+  .welecome-text a:link {
+    background-color: cyan;
+  }
+  
+  .welcome-text a {
+      border: 1px ;
+      padding: 10px 25px;
+    /* padding-left: ; */
+    width: fit-content;
+    background-color:rgb(67, 91, 91);
+    font-family: courier new;
+    -moz-transition: 1s linear;
+    -ms-transition: 1s linear;
+    -o-transition: 1s linear;
+    -webkit-transition: 1s linear;
+    transition: 1s linear;
+  
+      text-decoration: none;
+      text-transform: unset;
+      font-size: 15px;
+    border: 30px;
+      margin-top: 400px;
+    margin-left: 400px;
+    margin-right: 0px;
+      display: inline-table;
+      color: rgb(29, 43, 22);
+  
+  .welcome-text a:hover {
+      background: rgb(255, 255, 255);
+      color: #333;
+  }
+  .button{
+    margin: 25px 0 0 0;
+    width: 100%;
+    height: 50px;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    background: #dde1e7;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 25px;
+    box-shadow: 2px 2px 5px #babecc,
+                -5px -5px 10px #ffffff73;
+  }
+  
+  button:focus{
+    color: #3498db;
+    box-shadow: inset 2px 2px 5px #babecc,
+                inset -5px -5px 10px #ffffff73;
+  }
+  .content .or{
+    color: black;
+    margin-top: 9px;
+  }
+   
+  .icon-button{
+    margin-top: 15px;
+  }
+  .icon-button span{
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+     
+   border-radius: 5px;
+    line-height: 30px;
+    
+    background: #dde1e7;
+    box-shadow: 2px 2px 5px #babecc,
+                -5px -5px 10px #ffffff73;
+  }
+  .icon-button span.facebook{
+    margin-right: 17px;
+  
+  }
+  .icon-button span:hover{
+    color: #3498db;
+    box-shadow: inset 2px 2px 5px #babecc,
+                inset -5px -5px 10px #ffffff73;
+  }
+  .h {
+    margin: 219px 0 0 0;
+    width: 215px;
+    padding-left: 0%;
+    margin-left: 299px;
+    margin-right: 224px;
+    margin-block-start: 305px;
+    margin-bottom: 104px;
+    margin-inline-end: 4px;
+    height: 50px;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    background: #dde1e7;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 25px;
+    box-shadow: 2px 2px 5px #babecc, -5px -5px 10px #ffffff73;
+  }
+  
+  
+  

@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+}
+  
+.registration {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login {
+  background-color: skyblue;
+ margin-left: 500px;
+  width: 500px;
+  margin-top: 500px;
+  /* padding-top: 500px; */
+  /* border: 3px solid red; */
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input100{
+  border-radius: 30px;
+margin: 12px;
+height: 30px;
+}
+.nl{
+  margin-top: 10px;
+  margin-left: 70px;
+  width: 150px;
+    height: 50px;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    background: #ffdddd;
+   
+    outline: none;
+    cursor: pointer;
+    border-radius: 25px;
+}
+.head{
+  height: 650px;
+  width: 500px;
+  border-radius: 30px;
+  margin-left: 450px;
+  border: 3px solid rgb(12, 129, 192);
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hdd{
+
+  font-family: 'Times New Roman', Times, serif;
+}
+.addflight {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  width: 250px;
+  height: 40px;
+}
+.searchflight{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body {
+   margin: 0;
+   padding: 0;
+   font-family: sans-serif;
+   background: linear-gradient(#F0FFFF);
+   /* background-color: #de3636eb; */
+}
+
+.aaa{
+  border: 2px solid rgb(50, 52, 8);
+  border-radius: 50px;
+  height: 40px;
+}
+.adb{
+  margin-top: 10px;
+  margin-left: 0 px;
+  margin-bottom: 20px;
+  width: 100px;
+    height: 40px;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    background: #ffdddd;
+   
+    outline: none;
+    cursor: pointer;
+    border-radius: 25px;
+}
+.bd{
+  margin-top: -500px;
+  height: 725px;
+  background-color: burlywood;
+}
+

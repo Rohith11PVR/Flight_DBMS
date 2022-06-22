@@ -1,0 +1,23 @@
+td,th{
+    border:0.1px solid #ccc;
+}
+.c {
+   
+    width: 50px;
+    margin: 0px;
+    height: 40px;
+    color: #000;
+    font-size: 13px;
+    font-weight: 600;
+    background: #dde1e7;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+    
+}
+
+.gbd{
+    text-align: center;
+}
